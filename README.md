@@ -7,8 +7,8 @@ This project contains four datasets as follows:
 
 3 - /ROW_SAMPLES/Row_samples_classified_with_botometerLite_1000.csv.gz:- This dataset contains 1000 samples from our dataset, selected randomly. All the features are original features received from Twitter API; however, we add:
 
-    A - the score of Botometer Lite API [botometer_lite_score feature]
-    B - The date of collecting Sample from Twitter API [data_collected_at feature]
+A - the score of Botometer Lite API [botometer_lite_score feature]
+B - The date of collecting Sample from Twitter API [data_collected_at feature]
 
 4 - /ROW_SAMPLES/Row_samples_classified_with_botometerV4_1000.csv.gz:- This dataset contains 1000 samples from our dataset, selected randomly. All the features are original features received from Twitter API; however, we add:
 
