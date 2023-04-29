@@ -18,4 +18,4 @@ This dataset contains 1000 samples from our dataset, selected randomly. All the 
 This dataset contains 1000 samples from our dataset, selected randomly. All the features are original features received from Twitter API; however, we add: 1) The score of Botometer V4 [botometer_v4_score feature] 2) The date of collecting Sample from Twitter API [data_collected_at feature]
 
 
-If you're interested in those datasets wanted to use them for your research, please get in touch with us via niyaz94nz@gmail.com or Mrkayhanz@gmail.com
+If you're interested in those datasets, please get in touch with us via niyaz94nz@gmail.com or Mrkayhanz@gmail.com
